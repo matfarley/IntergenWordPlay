@@ -1,0 +1,8 @@
+C:\Users\Matthew Farley\Desktop\Programming Projects\IntergenWordPlay\WordPlay\bin\Debug\WordPlay.exe
+C:\Users\Matthew Farley\Desktop\Programming Projects\IntergenWordPlay\WordPlay\bin\Debug\WordPlay.pdb
+C:\Users\Matthew Farley\Desktop\Programming Projects\IntergenWordPlay\WordPlay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew Farley\Desktop\Programming Projects\IntergenWordPlay\WordPlay\obj\Debug\WordPlay.frmMain.resources
+C:\Users\Matthew Farley\Desktop\Programming Projects\IntergenWordPlay\WordPlay\obj\Debug\WordPlay.Properties.Resources.resources
+C:\Users\Matthew Farley\Desktop\Programming Projects\IntergenWordPlay\WordPlay\obj\Debug\WordPlay.csproj.GenerateResource.Cache
+C:\Users\Matthew Farley\Desktop\Programming Projects\IntergenWordPlay\WordPlay\obj\Debug\WordPlay.exe
+C:\Users\Matthew Farley\Desktop\Programming Projects\IntergenWordPlay\WordPlay\obj\Debug\WordPlay.pdb
